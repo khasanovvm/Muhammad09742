@@ -36,6 +36,16 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="![home-right](https://user-images.githubusercontent.com/110890832/214123831-87a54426-1c77-44de-b0a6-a6d5a61acd16.png)" width="600" height="300"/>
-</div>
+I am beginner frontend programer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan,Tashkent.
+
+- :telescope: I'm learning frontend proharming
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: in my free time, i do trading
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
+
+    
