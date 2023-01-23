@@ -30,3 +30,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<h1>
+  hello, I'm beginner frontend programer👨‍💻
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="![home-right](https://user-images.githubusercontent.com/110890832/214123831-87a54426-1c77-44de-b0a6-a6d5a61acd16.png)" width="600" height="300"/>
+</div>
