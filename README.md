@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges">
-  <a href="https://instagram.com/khsnw.m?igshid=YmMyMTA2M2Y=" target="_blank">
+  <a href="https://instagram.com/khsnw.m?igshid=YmMyMTA2M2Y=">
     <img src="https://i.pinimg.com/originals/67/03/1e/67031e426eeaa9a5676b13ee4ef7abfe.jpg" alt="LinkedIn Badge" width="100"/>
   </a>
   <a href="your-youtube-URL">
