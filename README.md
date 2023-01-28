@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/khasanovmhmmd">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/81/81609.png" alt="Twitter Badge" width="100"/>
   </a>
 </div>
 
