@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="https://instagram.com/khsnw.m?igshid=YmMyMTA2M2Y=">
-    <img src="https://i.pinimg.com/originals/67/03/1e/67031e426eeaa9a5676b13ee4ef7abfe.jpg" alt="LinkedIn Badge" width="100" margin="10"/>
+    <img src="https://i.pinimg.com/originals/67/03/1e/67031e426eeaa9a5676b13ee4ef7abfe.jpg" alt="LinkedIn Badge" width="100" />
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/khasanovmhmmd">
-    <img src="https://cdn-icons-png.flaticon.com/512/81/81609.png" alt="Twitter Badge" width="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/81/81609.png" alt="Twitter Badge" width="50" margin-top="10"/>
   </a>
 </div>
 
