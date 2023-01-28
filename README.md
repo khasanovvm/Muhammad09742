@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="https://instagram.com/khsnw.m?igshid=YmMyMTA2M2Y=">
-    <img src="https://i.pinimg.com/originals/67/03/1e/67031e426eeaa9a5676b13ee4ef7abfe.jpg" alt="LinkedIn Badge" width="100"/>
+    <img src="https://i.pinimg.com/originals/67/03/1e/67031e426eeaa9a5676b13ee4ef7abfe.jpg" alt="LinkedIn Badge" width="100" height="10"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
