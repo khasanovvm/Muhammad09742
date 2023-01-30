@@ -6,7 +6,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://w7.pngwing.com/pngs/890/910/png-transparent-logo-instagram-text-logo-number.png"/></a>
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn-icons-png.flaticon.com/512/87/87390.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/khasanovmhmmd"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/81/81609.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
