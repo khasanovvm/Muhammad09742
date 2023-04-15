@@ -39,11 +39,6 @@
 
   </p>
   
-  <h5> you can write me on my email <span>muhamamin@icloud.com</span>
-  <style>
-    span{
-    color:red;
-    }
-  </style>
+  <h5> you can write me on my email "muhamamin@icloud.com"
 </details>
 
