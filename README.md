@@ -1,6 +1,6 @@
-<h1 align="center">I'm a</h1>
+<h1 align="center"> Hello I'm a</h1>
 
-<h3 align="center"> frontend and backend developer </h3>
+<h1 align="center"> Frontend and Backend developer </h3>
 
 
 
