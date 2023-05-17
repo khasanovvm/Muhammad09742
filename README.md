@@ -39,6 +39,6 @@
 
   </p>
   
-  <h5> you can write me on my email "muhamamin@icloud.com"
+  <h5> you can contact me <a href="mail:hsnwdevel@gmail.com"> hsnwdevel@gmail.com</a>
 </details>
 
