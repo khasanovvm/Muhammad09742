@@ -39,6 +39,6 @@
 
   </p>
   
-  <h5> you can contact me <a href="mail:hsnwdevel@gmail.com"> hsnwdevel@gmail.com</a>
+  <h5> you can contact me <a href="mail: khsnwdevel@gmail.com"> khsnwdevel@gmail.com</a>
 </details>
 
