@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, My name is Muhammad Amin and I'm <br>frowned and backend developer <br>I create web site and web app<br>you can write me khsnwdevel@gmail.com
+Hello, My name is Muhammad Amin and I'm <br>frontend and backend developer <br>I create web site and web app<br>you can write me khsnwdevel@gmail.com
 
 
 ## 🌐 Socials:
