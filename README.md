@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@23.khasanovv) 
-[![X](https://img.shields.io/badge/-%231DA1F2.svg?logo=X&logoColor=black)](https://twitter.com/@khasanovmhmmd) 
+[![X](https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/@khasanovmhmmd) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khasanovv&icon=0&color=1)](https://visitcount.itsvg.in)
