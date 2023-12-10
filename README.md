@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m frontend<br>👯 and backend developer<br>🤝 I’m from Tashkent<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+web developer
 
 
 ## 🌐 Socials:
