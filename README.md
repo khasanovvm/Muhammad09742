@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khasanovv&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@23.khasanovv) 
+[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@khasanovvvv.m) 
 [![X](https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/@khasanovmhmmd) 
 
 ---
